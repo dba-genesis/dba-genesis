@@ -12,7 +12,6 @@
 
 <p>Switch to Oracle user and clone all our DBA Genesis (dg) scripts from Git Hub to your local system</p>
 <pre>su - oracle
-mkdir dg-scripts
 git clone https://github.com/dba-genesis/dg-scripts.git
 ls dg-scripts</pre>
 
