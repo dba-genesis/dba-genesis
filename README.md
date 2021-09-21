@@ -19,8 +19,7 @@ ls dg-scripts</pre>
 <h2>How to run DBA Genesis scripts inside Oracle database</h2>
 <p>First we need to set the SQLPATH variable inside .bash_profile to point our downloaded scripts</p>
 <pre>vi .bash_profile
-export SQLPATH=/home/oracle/dg-scripts
---> save and close
+export SQLPATH=/home/oracle/dg-scripts              --> save and close
 . .bash_profile
 </pre>
 
